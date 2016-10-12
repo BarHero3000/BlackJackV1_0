@@ -23,6 +23,11 @@
  * Then: Game back and forth play.
  * 
  * Need: Add shuffle feature for if the end of the deck is reached.
+ * =If player gets blackjack, check dealer if he has blackjack, otherwise the
+ *  dealer does not draw but loses. WIN for player. Same for dealer getting blackjack.
+ * 
+ * =
+ *
  * 
  * 
  * 
